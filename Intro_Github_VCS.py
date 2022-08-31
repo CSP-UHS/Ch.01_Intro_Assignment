@@ -105,7 +105,7 @@ I also like reading.
 I am currently reading 1984 by George Orwell.
 I enjoy exercising, mainly weightlifting and running.
 One of my favorite hobbies I wish I didn't have was laying in bed and listening to music while letting my mind wander.
-My last meal would be a nice rare steak with a lobster tail and a glass of [REDACTED].
+My last meal would be a nice rare steak with a lobster tail and a glass of [REDACTED]. Some fruit wouldn't hurt either.
 What color are you?
 ------------------Student 11------------------
 
