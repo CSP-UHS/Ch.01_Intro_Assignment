@@ -72,12 +72,12 @@ Oded H
 This is the master branch
 09/2006
 favorite color: any
-
-
-
-
-
-
+I run Cross Country
+I am in Band
+I like STEM Related Classes
+Tommith sits next to me in CSP
+He calls me Odedulous
+10
 ------------------Student 08------------------
 
 
