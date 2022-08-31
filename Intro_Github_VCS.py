@@ -98,15 +98,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Lindy Huynh------------------
-this is the master branch
-01/20/07
-merge test
-merge test successful
-
-
-
-
-
+I like playing video games.
+I'm currently playing Silent Hill 3 and multiple FPS games.
+My list of retired favorites is too long to list here because I have hundreds of great games in my Steam library.
+I also like reading.
+I am currently reading 1984 by George Orwell.
+I enjoy exercising, mainly weightlifting and running.
+One of my favorite hobbies I wish I didn't have was laying in bed and listening to music while letting my mind wander.
+My last meal would be a nice rare steak with a lobster tail and a glass of [REDACTED].
+What color are you?
 ------------------Student 11------------------
 
 
