@@ -218,9 +218,8 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Marc Hermon------------------
-This is the testing branch
-favorite color: blue
 This is the master branch
+favorite color: blue
 02/06/1970
 
 
