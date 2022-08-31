@@ -161,13 +161,13 @@ Tell me some interesting facts about yourself.
 This is the master branch
 purple
 03/19/2006
-
-
-
-
-
-
-
+I want to go into aerospace engineering
+I golf for urbandale
+I like to code
+What is the square root of 12439184243857442714823814981739847567231894028374
+What is the meaning of life
+Why
+Howdy
 ------------------Student 17------------------
 
 
