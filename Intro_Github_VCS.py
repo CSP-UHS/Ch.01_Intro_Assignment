@@ -131,12 +131,12 @@ Tell me some interesting facts about yourself.
 This is the master branch
 My birthday is May 9th 2006
 My favorite color is blue
-
-
-
-
-
-
+I have a dog
+I have two sisters
+My favorite food is pasta
+My least favorite food is bananas
+I moved to Iowa when I was 2
+I play the trumpet in band
 ------------------Student 14------------------
 
 
