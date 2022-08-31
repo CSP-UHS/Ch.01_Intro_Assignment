@@ -81,9 +81,7 @@ Tell me some interesting facts about yourself.
 This is the master branch
 favorite color: Red
 08/26/05
-
-
-
+I run Track and Cross Country
 
 
 
