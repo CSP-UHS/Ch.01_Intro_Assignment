@@ -101,8 +101,8 @@ Tell me some interesting facts about yourself.
 I like playing video games.
 I'm currently playing Silent Hill 3 and multiple FPS games.
 My list of retired favorites is too long to list here because I have hundreds of great games in my Steam library.
-I also like reading.
-I am currently reading 1984 by George Orwell.
+I also like reading. I am currently reading 1984 by George Orwell.
+I enjoy taking brief walks, especially when the weather is perfectly cold and mildly breezy.
 I enjoy exercising, mainly weightlifting and running.
 One of my favorite hobbies I wish I didn't have was laying in bed and listening to music while letting my mind wander.
 My last meal would be a nice rare steak with a lobster tail and a glass of [REDACTED]. Some fruit wouldn't hurt either.
