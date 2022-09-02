@@ -121,12 +121,12 @@ Tell me some interesting facts about yourself.
 This is the Master branch
 Favorite color: blue
 01/18/2006
-
-
-
-
-
-
+Do I have pets? yes
+Favorite Animal: Horse
+Favorite core subject: Language Arts
+Busiest club I'm part of: Theater
+favorite place to travel: Chicago
+Ever been out of state? Yes
 ------------------Student 13------------------
 
 
