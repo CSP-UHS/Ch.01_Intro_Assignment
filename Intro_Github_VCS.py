@@ -63,7 +63,7 @@ This is the master branch
 favorite color: orange
 favorite animal: monkey
 favorite food: mac n cheese
-least favoite color: neon pink
+least favorite color: neon pink
 least favorite food: anything spicy
 sports im in: cross country
 language im taking: adv spanish III
