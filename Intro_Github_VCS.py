@@ -8,15 +8,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 01------------------
-
-
-
-
-
-
-
-
-
+this is the master branch
+i have no pets
+8/15/06
+i like filipino food
+i longboard during the summer
+i have a brother and sister
+im the youngest
+pool is my favorite sport
+i play drums for worship band
 ------------------Student 02------------------
 
 
