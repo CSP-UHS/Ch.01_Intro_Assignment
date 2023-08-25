@@ -207,16 +207,16 @@ Is water wet?
 Who is Shrodinger?
 Why do I have is cat?
 Wait, where did the cat go?
-------------------Student 21------------------
-
-
-
-
-
-
-
-
-
+------------------Walker Lowe------------------
+My favorite color is blue or purple
+I drive a 2006 Impreza WRX
+I played baseball for 13 years
+Pirates are pretty cool
+Cars are pretty cool as well
+I like listening to music
+Im the tech guy of my family
+I like to spend time with my friends
+Im currently 17 years old
 ------------------Student 22------------------
 
 
