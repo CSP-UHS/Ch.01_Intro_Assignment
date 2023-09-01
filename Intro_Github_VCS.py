@@ -15,8 +15,6 @@ Tell me some interesting facts about yourself.
 
 
 
-
-
 ------------------Student 02------------------
 
 
@@ -97,7 +95,7 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 10------------------
+------------------Jace Leahy------------------
 
 
 
