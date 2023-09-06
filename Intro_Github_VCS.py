@@ -208,8 +208,8 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Jonathan Reischel------------------
-I have a Husky Shepard mix called Sampson
-
+I have a Husky Shepard mix of dog called Sampson
+I work as a Rides operator at Adventureland
 
 
 
