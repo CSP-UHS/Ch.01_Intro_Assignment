@@ -38,15 +38,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Treajan Diersen------------------
-this is a master branch
-
-
-
-
-
-
-
-
+this is a testing branch
+Tom Clancy's Rainbow Six Siege is a video game.
+My dog is cool.
+Water is essential.
+Food is alright.
+only good food tho.
+Blue is a cool color.
+I like to leave school.
+My bed is comfortable.
 ------------------Student 05------------------
 
 
