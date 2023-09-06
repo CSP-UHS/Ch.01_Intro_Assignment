@@ -238,15 +238,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Alex Tiemens------------------
-favorite color is green
-
-
-
-
-
-
-
-
+My favorite color is green
+I have 2 brothers
+I have 2 Dogs
+I have 2 cats
+I've had 5 cats
+I've had 3 dogs
+I am 16
+I like fishing
+I am 5,8
 ------------------Student 25------------------
 
 
