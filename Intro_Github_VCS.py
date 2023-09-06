@@ -49,14 +49,14 @@ Tell me some interesting facts about yourself.
 
 ------------------Muhammad Elshafie------------------
 My favorite color is green
-I love python
-I love soccer
-I have a family of 6
-I love video games
-I love travelling
-I love watching movies
-I like some shows
-I cant wait till I graduate
+I love Python
+I love Soccer
+I have a family members of 6
+I love Video games
+I love travelling a lot
+I love Watching movies
+I like Some shows
+I cant wait till I Graduate
 ------------------Student 06------------------
 
 
