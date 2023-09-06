@@ -188,15 +188,15 @@ Tell me some interesting facts about yourself.
 
 
 -------------Aidan Ordagic------------------
-this is a master branch
-
-
-
-
-
-
-
-
+my fav color is gold
+I like playing star wars battlefront 2
+Im 15
+My fav soccer player is Modric
+my fav UFC fighter is Jon Jones
+my favorite food is mac and cheese
+my favorite restaurant is Charlies at jordan creek
+Favorite holiday is Christmas
+favorite season is winter
 ------------------Student 20------------------
 
 
