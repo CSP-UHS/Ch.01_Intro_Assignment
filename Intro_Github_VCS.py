@@ -58,7 +58,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Carlos Guzman------------------
-My favorite color is yellow
+
 
 
 
