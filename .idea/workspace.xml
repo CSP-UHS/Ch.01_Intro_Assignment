@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="0ffd36fa-d607-46e1-84cc-30e3c2be5567" name="Changes" comment="funir" />
+=======
+    <list default="true" id="a8918efd-06d2-4257-887f-f35bdc304a60" name="Changes" comment="funir">
+      <change beforePath="$PROJECT_DIR$/Intro_Github_VCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_Github_VCS.py" afterDir="false" />
+    </list>
+>>>>>>> silli
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +16,16 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="silli" />
+=======
+        <entry key="$PROJECT_DIR$" value="master" />
+>>>>>>> silli
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -47,6 +58,10 @@
       <updated>1693577475129</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="TaskManager">
+>>>>>>> silli
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,8 +75,11 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="funir" />
     <option name="LAST_COMMIT_MESSAGE" value="funir" />
   </component>
+=======
+>>>>>>> silli
 </project>
