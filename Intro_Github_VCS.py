@@ -258,7 +258,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Keira VanderLeest------------------
-
+My favorite colour is blue
 
 
 
