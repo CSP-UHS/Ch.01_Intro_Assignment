@@ -268,15 +268,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Stephen Walters------------------
-This is a master branch
+My favorite class is CSP
 My favorite color is green
-
-
-
-
-
-
-
+I play soccer
+I like coding
+I have two older brothers
+I have two dogs
+I haven't won any candy yet
+I have a car
+I am in showchoir
 ------------------Student 28------------------
 
 
