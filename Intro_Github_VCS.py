@@ -208,15 +208,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Jonathan Reischel------------------
-I have a Husky Shepard mix of dog called Sampson
-I work as a Rides operator at Adventureland
-
-
-
-
-
-
-
+My favorite color is purple
+I have a husky shepard dog mix called Sampson
+I work as a rides operator at Adventure land
+My favorite sports team is the Minnesota Vikings
+I like to fish alot
+I am on the Bowling team at the high school
+My favorite song is Purple rain by Prince
+I like to code
+I have 1 brother
 ------------------Student 22------------------
 
 
