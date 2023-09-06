@@ -208,7 +208,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Jonathan Reischel------------------
-this is a master branch
+I have a Husky Shepard mix called Sampson
 
 
 
