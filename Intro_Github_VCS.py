@@ -118,15 +118,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Walker Lowe------------------
-this is a testing branch
-
-
-
-
-
-
-
-
+I work at Fareway
+My favorite color is blue
+I like pirates
+I like spending time with my friends
+I like cars
+I drive a WRX
+My favorite subject is History
+I have three pets
+I played baseball for 12 years
 ------------------Student 13------------------
 
 
