@@ -169,14 +169,14 @@ Tell me some interesting facts about yourself.
 
 ------------------THINH NGO------------------
 my favorite color is blue
-
-
-
-
-
-
-
-
+working out is fun
+school is kind of boring right now
+i work a lot
+money is good
+i like eating steak
+i like eating salmon
+i cook
+money
 ------------------Student 18------------------
 
 
