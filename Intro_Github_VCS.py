@@ -58,15 +58,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Carlos Guzman------------------
-My favorite color is green
-
-
-
-
-
-
-
-
+My favorite color is yellow
+I have a dog
+I have seven siblings
+I'm in choir
+I'm in Cross-Country
+I'm in track
+I like fishing
+Summer is my favorite season
+I'm learning guitar
 ------------------Student 07------------------
 
 
