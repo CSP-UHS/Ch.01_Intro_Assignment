@@ -89,14 +89,14 @@ Tell me some interesting facts about yourself.
 
 ------------------Ava L------------------
 My favorite Color is Blue
-Testing new branch
-
-
-
-
-
-
-
+I have two dogs
+I work for the school in the summer
+I have a sister in Collage
+I like art
+Im in theater
+I like to read
+I like coding
+Im thinking of getting a BA in Computer Science
 ------------------Student 10------------------
 
 
