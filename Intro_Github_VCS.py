@@ -168,7 +168,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------THINH NGO------------------
-This is my testing branch
+my favorite color is blue
 
 
 
