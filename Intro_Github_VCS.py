@@ -288,15 +288,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Caden McLaughlin------------------
-I guess I need to fill this out
-I don't know what to fill this out with yet
-This is supposed to be filled with facts about me
-There really isn't much about me that is interesting
-I guess I share a birthday with Abraham Lincoln
-My joints are hypermobile which means they can bend way further than usual
+I don't have that much that's interesting about me
+So these lines are mostly filler because I couldn't think of anything else
+I share a birthday with Abraham Lincoln
+I can put both legs behind my head
+I can turn my head almost completely around
+I have a genetic disorder called Ehlers-Danlos Syndrome
 I've still never broken a bone
 That's about everything that's interesting about me
-I guess I managed to fill this out
+These lines are also filler but with them I have filled all the lines
 ------------------Student 30------------------
 
 
