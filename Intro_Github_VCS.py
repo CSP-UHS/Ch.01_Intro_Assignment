@@ -138,7 +138,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Logan Mills------------------
-My favorite color is dark green
+Favorite color is dark green
 I'm into cybersecurity / ethical hacking
 I work on bug bounties in my free time
 I love vintage tech (I ordered an early 2000's ex German Military laptop)
