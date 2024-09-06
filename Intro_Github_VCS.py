@@ -9,10 +9,11 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 01------------------
 try GAIN
-This is the master 2.0!
-cool
-weird
-hello
+another line
+this is a testing2.0
+weird again
+hello try again
+test
 
 
 
