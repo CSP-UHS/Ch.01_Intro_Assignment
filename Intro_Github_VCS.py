@@ -218,7 +218,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 22: Logan Knisley------------------
-Logan!
+My favorite color is seafoam green
 
 
 
