@@ -219,7 +219,7 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 22: Logan Knisley------------------
 My favorite color is seafoam green
-
+My favorite class so far is AP Chemistry
 
 
 
