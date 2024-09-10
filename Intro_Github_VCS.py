@@ -189,7 +189,7 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 19 Medin Burnic------------------
 My favorite color is Red!
-
+My favorite class I'm taking this year is AP Euro!
 
 
 
