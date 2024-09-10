@@ -18,14 +18,14 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 02: Blayne Pettengill------------------
-my favorite color is Black
-Some of my favorite games are Skyrim, terraria, and outer wilds
+My favorite color is Black
+Some of my favorite games are Skyrim, Terraria, and Outer Wilds
 I love DnD
 I've Been enjoying watching Psych
 My favorite food is Pizza
 I enjoy coding
-my favorite cookies is snickerdooldes
-
+My favorite cookies is snickerdooldes
+I have one brother
 I have a dog and 2 cats
 ------------------Student 03------------------
 
