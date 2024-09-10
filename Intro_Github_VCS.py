@@ -68,7 +68,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 07: Elaina Klaas------------------
-
+My favorite color is purple
 
 
 
