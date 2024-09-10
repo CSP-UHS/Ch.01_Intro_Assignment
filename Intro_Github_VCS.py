@@ -108,15 +108,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 11 Hunter Clark------------------
-Green
+I like green
 My favorite class I'm taking is Chemistry
-
-
-
-
-
-
-
+I am on a swim team
+I own a cat
+My favorite book series is Percy Jackson
+I love science of any kind
+I am considered the house tech support agent.
+I know how to work with electronic hardware
+I play D&D!
 ------------------Student 12------------------
 
 
