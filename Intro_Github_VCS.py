@@ -257,16 +257,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 26------------------
-
-
-
-
-
-
-
-
-
+------------------Student 26 Devin Johnson
+Black
+my favroite class is ijag
+im black
+i hang out with friends
+i go to walmart a lot
+i like potatos
+im a size 13
+im 6'2
+korben is short
 ------------------Student 27------------------
 
 
