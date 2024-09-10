@@ -70,13 +70,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 07: Elaina Klaas------------------
 My favorite color is purple
 I am left handed
-
-
-
-
-
-
-
+I am a junior at Urbandale High School
+I play volleyball and I bowl
+I work at Lifetime Fitness
+I am 5'2 
+I have 2 dogs and 2 cats
+I have a brother who is a freshman in college 
+I want to be a computer scientist 
 ------------------Student 08------------------
 
 
