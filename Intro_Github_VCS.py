@@ -18,7 +18,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 02: Blayne Pettengill------------------
-
+my favorite color is Black
 
 
 
