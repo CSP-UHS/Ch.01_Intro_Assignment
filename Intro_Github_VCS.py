@@ -8,7 +8,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 01 Marc Hermon------------------
-
+My favorite color is blue!
 
 
 
