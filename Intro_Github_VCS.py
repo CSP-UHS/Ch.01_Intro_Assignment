@@ -222,7 +222,7 @@ My favorite color/shade is seafoam green
 My favorite class so far is AP Chemistry
 I have a dog, Grace, and a cat, Frenchie
 I have a passion for learning history
-I enjoy watching soccer (Atlético Madrid) and football (Packers)
+I enjoy watching soccer (Atlético Madrid) and football (Green Bay Packers)
 I like to write intriguing narratives (that don't go past chapter 1)
 I help track and visualize statistics for the Urbandale boys soccer team
 I work with Godot (GDScript/C#) to make quality* games
