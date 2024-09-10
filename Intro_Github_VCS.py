@@ -179,14 +179,14 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 18: Precious Karyee------------------
 my favorite color is navy
-my 2nd fav color is forest green
-
-
-
-
-
-
-
+2nd fav color is olive green
+3rd favorite color is pink
+4th fav is forest green
+my favorite movie is the greatest showman
+my second favorite movie is black panther
+I run track
+I have 5 siblings
+my favorite thing to do is sleep
 ------------------Student 19------------------
 
 
