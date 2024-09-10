@@ -1,4 +1,4 @@
-'''
+2'''
 Mr. Hermon will assign each student 10 lines of code.
 For example, student #1 has lines 10-19
 and student #2 has lines 20-29.
@@ -67,7 +67,7 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 07------------------
+------------------Student 07: Elaina Klaas------------------
 
 
 
