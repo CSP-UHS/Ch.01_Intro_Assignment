@@ -57,16 +57,17 @@ Tell me some interesting facts about yourself.
 
 
 
+
 ------------------Student 06:Ian Gage------------------
 my favorite color is red
 I am a butcher a hyvee
-
-
-
-
-
-
-
+I play the euphonium in our band, and have done so for 7 years
+I am a fan of the band Jamiroquai
+I enjoy wordle
+I had a Dog
+Kitkats are my favorite candy bar
+I am the Section leader of the Euphonium section
+I have 1 sister
 ------------------Student 07------------------
 
 
