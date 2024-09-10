@@ -37,9 +37,9 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Noah SmitThis is the Master Branch------------------
-
-
+------------------Noah Smit This is the Master Branch------------------
+I play video games
+I have 3 cats
 
 
 
