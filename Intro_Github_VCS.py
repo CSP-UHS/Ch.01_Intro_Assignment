@@ -49,7 +49,7 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 05: Hudson Kerchal------------------
 My favorite color is purple
-
+I've been to mexico 12 times
 
 
 
