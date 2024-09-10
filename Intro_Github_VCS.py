@@ -229,7 +229,7 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 23:Dayne Rew ------------------
 My favorite color is pink!
-
+My favorite class is CSP!
 
 
 
