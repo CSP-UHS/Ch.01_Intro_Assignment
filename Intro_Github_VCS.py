@@ -237,10 +237,10 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 24------------------
-
-
-
+------------------Student 24 Korben Henry------------------
+my fav color is red
+Photography II
+i like fixing hardwhere on computers and phones.
 
 
 
