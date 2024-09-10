@@ -99,7 +99,7 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 10 - Cayden Feldotto------------------
 My favorite color is Aqua
-
+I am a big fan of Kanye West's music
 
 
 
