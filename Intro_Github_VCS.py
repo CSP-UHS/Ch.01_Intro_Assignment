@@ -100,13 +100,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 10 - Cayden Feldotto------------------
 My favorite color is Aqua
 I am a big fan of Kanye West's music
-
-
-
-
-
-
-
+I am a sophomore
+I have blue eyes
+I have a twin
+I work at a grocery store
+My favorite hobby is playing video games
+My favorite video game is Elden Ring
+I have a bulldog named Rosie
 ------------------Student 11------------------
 
 
