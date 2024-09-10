@@ -17,7 +17,7 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 02------------------
+------------------Student 02: Blayne Pettengill------------------
 
 
 
@@ -197,16 +197,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Blayne Pettengill------------------
-my favorite color is Black
-I have been playing alot of terraria recently
-I love DnD
-I've Been enjoying watching Psych
-My favorite food is Pizza
-I enjoy coding
-I recently bought my own computer
-I like puppy chow
-I have a dog and cat
+------------------Student 20------------------
+
+
+
+
+
+
+
+
+
 ------------------Student 21------------------
 
 
