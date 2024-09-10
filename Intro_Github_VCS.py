@@ -59,7 +59,7 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 06:Ian Gage------------------
 my favorite color is red
-
+I am a butcher a hyvee
 
 
 
