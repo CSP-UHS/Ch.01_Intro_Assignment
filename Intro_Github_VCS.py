@@ -207,16 +207,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 21------------------
-
-
-
-
-
-
-
-
-
+------------------Student 21 Nate Powers------------------
+My favorite color is red!
+My favorite class is CSP
+I run cross country and track
+I plan to go to Iowa State
+I would like to be an AI scientist
+I have red hair
+I played soccer for 10 years
+I am familiar with HTML, CSS, Java, CSS, and Python
+I drive a truck that is older than me
 ------------------Student 22------------------
 
 
