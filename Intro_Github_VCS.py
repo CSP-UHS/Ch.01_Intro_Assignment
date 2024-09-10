@@ -170,13 +170,14 @@ Tell me some interesting facts about yourself.
 ------------------Student 17 Areeb Ahmed------------------
 My favorite color is red!
 My favorite class is japanese, CSP and English
-
-
-
-
-
-
-
+I came from other country name Bangladesh.
+I had eight kittens and 3 cats which was really fun and little bit of troublesome
+If i talk about my country and USA then I will say USA is better than Bangladesh.
+My country is still growing, we had a big fight on july and augest 5th was the independece for the students and the citizen
+I am mostly like a cat person.
+Last year was my first time watching snow and it was really fun
+I didn't catch cold, fever or anything so thats record for me.
+I love coding and wants to be a pogrammer or a developer.
 ------------------Student 18------------------
 
 
