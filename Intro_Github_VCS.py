@@ -50,13 +50,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 05: Hudson Kerchal------------------
 My favorite color is purple
 I've been to mexico 12 times
-
-
-
-
-
-
-
+I have 1 sister
+I like to play golf and play video games
+I used to play 6 sports
+I have lived in Iowa my whole life
+My favorite class is Science
+I like listening ot music
+My favorite music artist is MF DOOM
 ------------------Student 06------------------
 
 
