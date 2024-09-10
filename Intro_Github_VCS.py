@@ -7,13 +7,10 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 01------------------
-try GAIN
-another line
-this is a testing2.0
-weird again
-hello try again
-test
+------------------Student 01 Marc Hermon------------------
+
+
+
 
 
 
