@@ -230,13 +230,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 23:Dayne Rew ------------------
 My favorite color is pink!
 My favorite class is CSP!
-
-
-
-
-
-
-
+My favorite food is Ramen Noodles and Pizza!
+I play varisty golf and varsity wrestling!
+I love watching YouTube!
+I Make muckbangs every day!
+I'm a huge Iowa State fan!
+I have 2 fat pugs at home!
+My favorite video games are Call Of Duty and Fortnite!
 ------------------Student 24------------------
 
 
