@@ -128,11 +128,11 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 13 Simon Woida------------------
-i don't have a favorite color
+I don't have a favorite color
 ELP
-
-
-
+I can't stand people chewing with their mouth open next to me
+I don't know how to ride a bike
+I've never broken a bone
 
 
 
