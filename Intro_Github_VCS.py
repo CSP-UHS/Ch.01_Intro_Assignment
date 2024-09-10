@@ -120,13 +120,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 12 Markoda Mann------------------
 My favorite color is purple!
 My favorite class this year is Cubersecurity >:)
-
-
-
-
-
-
-
+My favorite game is Goat Simulator III
+I have four toes (not really) (totally)
+I am going to tell some of my best half jokes now.
+I once knew a woman with a taser.
+Don't sleep with alligators.
+inflatable bloons are domestic terrorists.
+thank you for your ears.
 ------------------Student 13------------------
 
 
