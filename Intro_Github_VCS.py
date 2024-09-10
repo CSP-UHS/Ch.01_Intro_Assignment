@@ -218,15 +218,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 22: Logan Knisley------------------
-My favorite color is seafoam green
+My favorite color/shade is seafoam green
 My favorite class so far is AP Chemistry
-
-
-
-
-
-
-
+I have a dog, Grace, and a cat, Frenchie
+I have a passion for learning history
+I enjoy watching soccer (Atlético Madrid) and football (Packers)
+I like to write intriguing narratives (that don't go past chapter 1)
+I help track and visualize statistics for the Urbandale boys soccer team
+I work with Godot (GDScript/C#) to make quality* games
+I use GTK (Python/C/Maybe Rust) to customize linux desktop environments
 ------------------Student 23------------------
 
 
