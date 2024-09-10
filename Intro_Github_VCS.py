@@ -40,13 +40,14 @@ Tell me some interesting facts about yourself.
 ------------------Noah Smit This is the Master Branch------------------
 I play video games
 I have 3 cats
-
-
-
-
-
-
-
+My cats' names are Rory, Callie, and Clyde
+My favorite movie is Into the Spider-verse
+My favorite food is spaghetti
+My dog's name is Libby
+I work at Hy-vee
+I plan to go to Iowa State
+I want to go to college for Engineering
+My favorite classes are Math and Science
 ------------------Student 05------------------
 
 
