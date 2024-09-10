@@ -217,7 +217,7 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 22: Logan Knisley------------------
+------------------Student 22 Logan Knisley------------------
 My favorite color/shade is seafoam green
 My favorite class so far is AP Chemistry
 I have a dog, Grace, and a cat, Frenchie
