@@ -200,13 +200,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 20 Noah Fisher------------------
 My favorite color is amaranth!
 My favorite is Careers and Entrepreneurship!
-
-
-
-
-
-
-
+I race Go-Karts
+I am preparing to join autocross racing next year
+I am working towards having my competition race licence within the next 2 years
+I am going to go to a racing school over in chicago within the next few years
+I am ranked top 11,000 out of 18 million people across the world for go-karting right now
+I am going to be an apprentice for a mechanic in 2025
+I own and produce my own cologne brand
 ------------------Student 21------------------
 
 
