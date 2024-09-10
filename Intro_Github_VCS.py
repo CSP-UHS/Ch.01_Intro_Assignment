@@ -226,7 +226,7 @@ I enjoy watching soccer (Atlético Madrid) and football (Green Bay Packers)
 I like to write intriguing narratives (that don't go past chapter 1)
 I help track and visualize statistics for the Urbandale boys soccer team
 I work with Godot (GDScript/C#) to make quality* games
-I use GTK (Python/C/Maybe Rust) to customize linux desktop environments
+I use GTK (Python/C/Rust in the future) to customize linux desktop environments
 ------------------Student 23------------------
 
 
