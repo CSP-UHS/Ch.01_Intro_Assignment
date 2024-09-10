@@ -158,7 +158,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student_16_Seth_Cain------------------ Lines 160-169
-
+My favorite color is Royal Purple!
 
 
 
