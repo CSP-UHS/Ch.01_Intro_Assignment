@@ -98,7 +98,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 10 - Cayden Feldotto------------------
-
+My favorite color is Aqua
 
 
 
