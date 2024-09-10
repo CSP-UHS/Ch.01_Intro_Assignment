@@ -128,7 +128,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 13 Simon Woida------------------
-
+i don't have a favorite color
 
 
 
