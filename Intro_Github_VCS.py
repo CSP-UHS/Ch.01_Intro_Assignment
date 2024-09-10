@@ -177,8 +177,8 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 18------------------;precious k
-
+------------------Student 18: Precious Karyee------------------
+my favorite color is navy
 
 
 
