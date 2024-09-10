@@ -10,13 +10,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 01 Marc Hermon------------------
 My favorite color is blue!
 I teach CSP, POE and College Physics!
-
-
-
-
-
-
-
+I have four children
+I have four grandchildren
+I own 7 kayaks
+I have been teaching for 31 years
+I have been at Urbandale for 26 years
+I own a small Ford tractor to pull my grandkids with
+My children are ages 14 up to 30
 ------------------Student 02------------------
 
 
