@@ -19,14 +19,14 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 02: Blayne Pettengill------------------
 my favorite color is Black
+I have been playing
+I love DnD
+I've Been enjoying watching Psych
+My favorite food is Pizza
+I enjoy coding
 
 
-
-
-
-
-
-
+I have a dog and 2 cats
 ------------------Student 03------------------
 
 
