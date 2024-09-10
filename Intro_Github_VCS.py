@@ -109,7 +109,7 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 11 Hunter Clark------------------
 Green
-
+My favorite class I'm taking is Chemistry
 
 
 
