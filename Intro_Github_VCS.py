@@ -133,7 +133,7 @@ ELP
 I can't stand people chewing with their mouth open next to me
 I don't know how to ride a bike
 I've never broken a bone
-
+I don't have anything else to put here
 
 
 
