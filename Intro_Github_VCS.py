@@ -208,16 +208,16 @@ I am going to go to a racing school over in chicago within the next few years
 I am ranked top 11,000 out of 18 million people across the world for go-karting right now
 I am going to be an apprentice for a mechanic in 2025
 I own and produce my own cologne brand
-------------------Student 21------------------
-
-
-
-
-
-
-
-
-
+------------------Student 21 Nate Powers------------------
+My favorite color is red!
+My favorite class is CSP
+I run cross country and track
+I plan to go to Iowa State
+I would like to be an AI scientist
+I have red hair
+I played soccer for 10 years
+I am familiar with HTML, CSS, Java, CSS, and Python
+I drive a truck that is older than me
 ------------------Student 22 Logan Knisley------------------
 My favorite color/shade is seafoam green
 My favorite class so far is AP Chemistry
