@@ -87,16 +87,16 @@ I like to play games
 I love math
 I eat food
 I drink water
-------------------Student 09------------------
-
-
-
-
-
-
-
-
-
+------------------Student 09: Alex Ballard------------------
+My favorite color is green.
+I own a wet floor sign.
+I have 4 cats, 2 dogs and 4 geckos.
+I have younger brother and sister.
+I am from Minnesota.
+I have been in band and in orchestra for 5 years each.
+Played soccer for almost half my life.
+My grandparents make homemade maple syrup.
+I enjoy having a science class.
 ------------------Student 10 - Cayden Feldotto------------------
 My favorite color is Aqua
 I am a big fan of Kanye West's music
