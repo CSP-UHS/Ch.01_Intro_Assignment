@@ -178,16 +178,16 @@ I am mostly like a cat person.
 Last year was my first time watching snow and it was really fun
 I didn't catch cold, fever or anything so thats record for me.
 I love coding and wants to be a pogrammer or a developer.
-------------------Student 18------------------
-
-
-
-
-
-
-
-
-
+------------------Student 18: Precious Karyee------------------
+my favorite color is navy
+2nd fav color is olive green
+3rd favorite color is pink
+4th fav is forest green
+my favorite movie is the greatest showman
+my second favorite movie is black panther
+I run track
+I have 5 siblings
+my favorite thing to do is sleep
 ------------------Student 19 Medin Burnic------------------
 My favorite color is Red!
 My favorite class I'm taking this year is AP Euro!
