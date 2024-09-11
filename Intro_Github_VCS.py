@@ -77,16 +77,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 08------------------
-
-
-
-
-
-
-
-
-
+------------------Student 08: Austin Weir------------------
+I like to read
+My favorite color is green
+I like Spanish
+I am in the play
+I sometimes play D&D
+I like to play games
+I love math
+I eat food
+I drink water
 ------------------Student 09------------------
 
 
