@@ -187,16 +187,16 @@ I don't have anything else to put here
 
 
 
-------------------Student 19------------------
-
-
-
-
-
-
-
-
-
+------------------Student 19 Medin Burnic------------------
+My favorite color is Red!
+My favorite class I'm taking this year is AP Euro!
+I love History & Social Studies!
+I love playing games with my friends!
+This summer was great! I'm looking forward to next summer!
+I have a twin sister!
+I'm going to be hosting a German student next month for UHS!
+I don't have pets, but I like cats!
+I deeply appreciate and value all my teachers!
 ------------------Student 20------------------
 
 
