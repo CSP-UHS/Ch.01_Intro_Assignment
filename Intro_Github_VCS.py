@@ -7,16 +7,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 01------------------
-
-
-
-
-
-
-
-
-
+------------------Student 01: Kaylen Morris------------------
+My favorite color is blue
+I owned a pet bunny when I was younger
+I am a junior at Urbandale High School
+I have blue eyes
+My favorite movie of all time is Tangled
+I have four dogs and one cat
+I have a sister who is a freshman at UHS and a brother who is a 6th grader at UMS
+I am double-jointed in my wrists
+I am 5'7
 ------------------Student 02: Blayne Pettengill------------------
 My favorite color is Black
 Some of my favorite games are Skyrim, Terraria, and Outer Wilds
