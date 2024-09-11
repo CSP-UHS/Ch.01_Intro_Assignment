@@ -237,10 +237,10 @@ I don't have anything else to put here
 
 
 
-------------------Student 24------------------
-
-
-
+------------------Student 24 Korben Henry------------------
+my fav color is red
+Photography II
+i like fixing hardwhere on computers and phones.
 
 
 
