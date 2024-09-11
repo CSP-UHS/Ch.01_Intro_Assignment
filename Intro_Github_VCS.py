@@ -37,16 +37,16 @@ I have a dog and 2 cats
 
 
 
-------------------Student 04------------------
-
-
-
-
-
-
-
-
-
+------------------Noah Smit This is the Master Branch------------------
+I play video games
+I have 3 cats
+My cats' names are Rory, Callie, and Clyde
+My favorite movie is Into the Spider-verse
+My favorite food is spaghetti
+My dog's name is Libby
+I work at Hy-vee
+I plan to go to Iowa State
+I want to go to college for Engineering
 ------------------Student 05: Hudson Kerchal------------------
 My favorite color is purple
 I've been to mexico 12 times
