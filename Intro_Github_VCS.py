@@ -157,16 +157,16 @@ I don't have any pets
 A show I watched as a child is Phinneas and Ferb
 I went on vaction to Washington DC in 4th grade
 I like coding
-------------------Student 16------------------
-
-
-
-
-
-
-
-
-
+------------------Student_16_Seth_Cain------------------ Lines 160-169
+My favorite color is Royal Purple!
+Favorite class is a tie between CSP and Psychology.
+The fastest I've solved a Rubik's Cube in 26 Seconds.
+I have 4 Sisters.
+I only have a single brother.
+I main Wolf in SSBU.
+I've played/beaten Persona 5 Royal.
+I have very stretchy skin.
+I'm in the middle of writing my book.
 ------------------Student 17 Areeb Ahmed------------------
 My favorite color is red!
 My favorite class is japanese, CSP and English
