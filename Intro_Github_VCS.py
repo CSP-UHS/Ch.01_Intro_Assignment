@@ -228,16 +228,16 @@ I like to write intriguing narratives (that don't go past chapter 1)
 I help track and visualize statistics for the Urbandale boys soccer team
 I work with Godot (GDScript/C#) to make quality* games
 I use GTK (Python/C/Rust in the near future) to customize linux desktop environments
-------------------Student 23------------------
-
-
-
-
-
-
-
-
-
+------------------Student 23:Dayne Rew ------------------
+My favorite color is pink!
+My favorite class is CSP!
+My favorite food is Ramen Noodles and Pizza!
+I play varisty golf and varsity wrestling!
+I love watching YouTube!
+I Make muckbangs every day!
+I'm a huge Iowa State fan!
+I have 2 fat pugs at home!
+My favorite video games are Call Of Duty and Fortnite!
 ------------------Student 24 Korben Henry------------------
 my fav color is red
 Photography II
