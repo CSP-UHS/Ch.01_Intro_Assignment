@@ -248,16 +248,16 @@ i like fixing hardwhere on computers and phones.
 
 
 
-------------------Student 25------------------
-
-
-
-
-
-
-
-
-
+------------------Student 25: Calen Heller------------------
+My favorite color is blue
+I love cars
+I play basketball and baseball
+I have 2 sisters
+I work at Scheels
+I have a dog who is a mutt
+I like spending my time fishing
+I enjoy building legos
+I play 2K
 ------------------Student 26------------------
 
 
