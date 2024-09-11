@@ -117,16 +117,16 @@ I love science of any kind
 I am considered the house tech support agent.
 I know how to work with electronic hardware
 I play D&D!
-------------------Student 12------------------
-
-
-
-
-
-
-
-
-
+------------------Student 12 Markoda Mann------------------
+My favorite color is purple!
+My favorite class this year is Cubersecurity >:)
+My favorite game is Goat Simulator III
+I have four toes (not really) (totally)
+I am going to tell some of my best half jokes now.
+I once knew a woman with a taser.
+Don't sleep with alligators.
+inflatable bloons are domestic terrorists.
+thank you for your ears.
 ------------------Student 13 Simon Woida------------------
 I don't have a favorite color
 ELP
