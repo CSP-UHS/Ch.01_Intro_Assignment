@@ -147,16 +147,16 @@ I don't have anything else to put here
 
 
 
-------------------Student 15------------------
-
-
-
-
-
-
-
-
-
+------------------Student 15 Thomas Reece------------------
+My favorite color is Purple
+My favorite class is Cybersecurity
+I'm a cat person
+I'm not in any sports
+I'm in CSP
+I don't have any pets
+A show I watched as a child is Phinneas and Ferb
+I went on vaction to Washington DC in 4th grade
+I like coding
 ------------------Student 16------------------
 
 
