@@ -176,8 +176,7 @@ If i talk about my country and USA then I will say USA is better than Bangladesh
 My country is still growing, we had a big fight on july and augest 5th was the independece for the students and the citizen
 I am mostly like a cat person.
 Last year was my first time watching snow and it was really fun
-I didn't catch cold, fever or anything so thats record for me.
-I love coding and wants to be a pogrammer or a developer.
+I didn't catch cold, fever or anything so thats record for me.I love coding and wants to be a pogrammer or a developer.
 ------------------Student 18: Precious Karyee------------------
 my favorite color is navy
 2nd fav color is olive green
@@ -258,16 +257,16 @@ I have a dog who is a mutt
 I like spending my time fishing
 I enjoy building legos
 I play 2K
-------------------Student 26------------------
-
-
-
-
-
-
-
-
-
+------------------Student 26 Devin Johnson
+Black
+my favroite class is ijag
+im black
+i hang out with friends
+i go to walmart a lot
+i like potatos
+im a size 13
+im 6'2
+korben is short
 ------------------Student 27------------------
 
 
