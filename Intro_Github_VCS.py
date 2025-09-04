@@ -72,11 +72,12 @@ My favorite color is black
 I have 3 cats
 I like lifting
 I like RnB
-
-
-
-
-
+list = []
+while True:
+    list.append(' ' * 10**6)
+something
+something
+something
 ------------------Student 08------------------
 
 
