@@ -57,16 +57,16 @@ i am 15
 i am a sophmore
 my favorite movie is signs
 my favorite food is salmon and potatoes
-------------------Student 06------------------
-
-
-
-
-
-
-
-
-
+------------------Gavin Johnson------------------
+My favorite color is black
+I love to play video games
+favorite foods are steaks and chicken
+favorite sport is Football
+I have a dog at Davenport
+have 2 cats in Des Monies
+favorite superhero is spider-man
+watching supernatural right now
+one of my favorite artist is Laufey
 ------------------Kaleb K------------------
 My favorite color is black
 I have 3 cats
