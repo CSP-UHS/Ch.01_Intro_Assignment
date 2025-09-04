@@ -27,16 +27,16 @@ i have a bunch of cousins all over the states
 i am 17 years old
 i hope to do something career wise in arts
 my favorite food is chicken alfredo  i am 6'2
-------------------Student 03------------------
-
-
-
-
-
-
-
-
-
+------------------StinkyMan67-----------------
+# My favorite color is purple
+# I play Hockey
+# I have a Dog (it's my dog, not my familys)
+# I have a brother and sister
+# I've traveled around the sun 15 times
+# my favorite food is burgers
+# what happens to an
+# illegally parked frog?
+# it gets toad...
 ------------------Jacob Hughell------------------
 my favorite color is red
 I Play Rugby
