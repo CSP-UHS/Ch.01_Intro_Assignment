@@ -67,16 +67,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 07------------------
-
-
-
-
-
-
-
-
-
+------------------Kaleb K------------------
+My favorite color is black
+I have 3 cats
+I like lifting
+I like RnB
+list = []
+while True:
+    list.append(' ' * 10**6)
+something
+something
 ------------------Student 08------------------
 
 
