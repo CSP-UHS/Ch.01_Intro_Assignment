@@ -77,7 +77,7 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Drew Nelson - Former Order 66 Top 1------------------
+------------------Drew Nelson - Order 66 Top 1------------------
 
 
 
