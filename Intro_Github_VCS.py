@@ -77,16 +77,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Drew Nelson - Order 66 Top 1------------------
-
-
-
-
-
-
-
-
-
+------------------Drew Nelson------------------
+I can solve a Rubik's Cube
+I have been to Florida 6 times
+I can pogo-stick
+I can juggle
+My favorite food is Casey's breakfast pizza
+My favorite color is salmon
+First person to get sub-10 on U-hub minesweeper (no hacks)
+First person to reach 200 on U-hub snake (no hacks)
+First person to reach 1000 on Order 66 (A little hacks but no a lot)
 ------------------Student 09------------------
 
 
