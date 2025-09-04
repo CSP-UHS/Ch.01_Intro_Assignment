@@ -77,7 +77,6 @@ while True:
     list.append(' ' * 10**6)
 something
 something
-something
 ------------------Student 08------------------
 
 
