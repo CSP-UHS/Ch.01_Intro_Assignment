@@ -8,7 +8,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------William Beeman------------------
-
+My favorite color is red
 
 
 
