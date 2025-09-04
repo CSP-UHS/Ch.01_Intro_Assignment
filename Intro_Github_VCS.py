@@ -57,16 +57,17 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 06------------------
-
-
-
-
-
-
-
-
-
+------------------Gavin Johnson - Testing ------------------
+My favorite color is black
+I love to play video games
+favorite foods are steaks and chicken
+favorite sport is Football
+I have a dog at Davenport
+have 2 cats in Des Monies
+favorite superhero is spider-man
+watching supernatural right now
+one of my favorite artist is Laufey
+love to go to the gym in my spear time
 ------------------Student 07------------------
 
 
