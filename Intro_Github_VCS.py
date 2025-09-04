@@ -7,16 +7,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 01------------------
-
-
-
-
-
-
-
-
-
+------------------William Beeman------------------
+My favorite color is red
+I am jobless and poor
+I have 2 cats and 1 dog
+I have an older brother and a younger sister
+I run track
+I'm 16
+My favorite food are cheeseburgers
+My favorite band is AC/DC
+My favorite subject is history
 ------------------Student 02------------------
 My favorite color is green
 i have 7 cats
