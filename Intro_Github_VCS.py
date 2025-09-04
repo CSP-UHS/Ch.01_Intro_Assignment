@@ -69,10 +69,9 @@ Tell me some interesting facts about yourself.
 
 ------------------Kaleb K- Testing-----------------
 My favorite color is black
-
-
-
-
+I have 3 cats
+I like lifting
+I like RnB
 
 
 
