@@ -67,7 +67,6 @@ have 2 cats in Des Monies
 favorite superhero is spider-man
 watching supernatural right now
 one of my favorite artist is Laufey
-love to go to the gym in my spear time
 ------------------Student 07------------------
 
 
