@@ -27,8 +27,8 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 03------------------
-
+------------------StinkyMan67-----------------
+# My favorite color is purple
 
 
 
