@@ -47,16 +47,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------cash jenkins - master-----------------
+------------------cash jenkins- testing-----------------
 My favorite color is blue
-
-
-
-
-
-
-
-
+i like going to the gym
+i have 6 dogs
+i have broken my wrist
+i work at ace hardware
+i am 15
+i am a sophmore
+my favorite movie is signs
+my favorite food is salmon and potatoes
 ------------------Student 06------------------
 
 
