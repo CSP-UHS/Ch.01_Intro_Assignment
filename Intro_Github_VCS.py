@@ -38,16 +38,16 @@ i am 6'2
 
 
 
-------------------Student 04------------------
-
-
-
-
-
-
-
-
-
+------------------Jacob Hughell------------------
+my favorite color is red
+I Play Rugby
+I play Football
+I Have a truck
+gavin johnson is sitting next to me
+gavin is looking over my shoulder
+I like food
+mr. hermon likes chicken fajitas
+1966 was the best year for the beach boys (59 Years ago)
 ------------------Student 05------------------
 
 
