@@ -19,14 +19,15 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 02------------------
 My favorite color is green
-
-
-
-
-
-
-
-
+i have 7 cats
+my favorite game is rainbow 6 siege
+i love music and arts
+i have 3 siblings
+i have a bunch of cousins all over the states
+i am 17 years old
+i hope to do something career wise in arts
+my favorite food is chicken alfredo
+i am 6'2
 ------------------Student 03------------------
 
 
