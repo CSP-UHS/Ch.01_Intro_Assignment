@@ -67,7 +67,7 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Kaleb K------------------
+------------------Kaleb------------------
 My favorite color is black
 
 
