@@ -87,16 +87,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Marc Hermon - Maste------------------
+------------------Marc Hermon - Testing------------------
 My favorite color is blue
-
-
-
-
-
-
-
-
+I own 7 kayaks
+I have been married for 33 years TODAY!
+I have 4 children, 3 boys and 1 girl
+I have 4 grandchildren, 2 boys and 2 girls
+My wife's name is Ginger
+I am very old!
+My favorite band of all time is the Beach Boys
+Chicken Fajitas
 ------------------Student 10------------------
 
 
