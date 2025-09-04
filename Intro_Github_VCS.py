@@ -47,16 +47,16 @@ gavin is looking over my shoulder
 I like food
 mr. hermon likes chicken fajitas
 1966 was the best year for the beach boys (59 Years ago)
-------------------Student 05------------------
-
-
-
-
-
-
-
-
-
+------------------cash jenkins------------------
+My favorite color is blue
+i like going to the gym
+i have 6 dogs
+i have broken my wrist
+i work at ace hardware
+i am 15
+i am a sophmore
+my favorite movie is signs
+my favorite food is salmon and potatoes
 ------------------Student 06------------------
 
 
